@@ -1,2 +1,2 @@
 # hello-world
-Jeff Her, I like Javascript new to GitHub 
+Jeff Here, I like Javascript new to GitHub 
